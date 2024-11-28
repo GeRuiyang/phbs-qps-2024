@@ -70,7 +70,3 @@ If you encounter any issues during installation or while running the script, her
 - Python Version: Make sure you are using Python 3.8+.
 
 For further assistance, please open an issue on the GitHub repository.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
