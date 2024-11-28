@@ -26,14 +26,13 @@ cd phbs-qps-2024
 
 Make sure you have Python 3.8+ installed. Then, install the necessary dependencies by running:
 
-    ```bash
     pip install -r src/requirements.txt
 
 This will install all required packages listed in the requirements.txt file.
 
 ### 4. Run the Script to Fetch CPI Data and Calculate Inflation
 
-Once the environment is set up, you can run the script that fetches CPI data and calculates the inflation for the last 4 quarters:
+Once the environment is set up, you can run the script that fetches CPI data and calculates the inflation:
 
 python scripts/fetch_cpi_data.py
 
