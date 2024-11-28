@@ -26,7 +26,8 @@ cd phbs-qps-2024
 
 Make sure you have Python 3.8+ installed. Then, install the necessary dependencies by running:
 
-pip install -r src/requirements.txt
+    ```bash
+    pip install -r src/requirements.txt
 
 This will install all required packages listed in the requirements.txt file.
 
