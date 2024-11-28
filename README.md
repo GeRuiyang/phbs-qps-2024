@@ -74,5 +74,3 @@ For further assistance, please open an issue on the GitHub repository.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Now you should be able to copy and paste the entire file in one go without interruptions. Let me know if this works for you!
